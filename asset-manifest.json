@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PortFolio_Manish_Kumar/static/css/main.bf538fe7.css",
+    "main.js": "/PortFolio_Manish_Kumar/static/js/main.a56f1140.js",
+    "static/js/787.daf47beb.chunk.js": "/PortFolio_Manish_Kumar/static/js/787.daf47beb.chunk.js",
+    "static/media/HeroImage.jpg": "/PortFolio_Manish_Kumar/static/media/HeroImage.0943be0fd80fb98035ef.jpg",
+    "index.html": "/PortFolio_Manish_Kumar/index.html",
+    "main.bf538fe7.css.map": "/PortFolio_Manish_Kumar/static/css/main.bf538fe7.css.map",
+    "main.a56f1140.js.map": "/PortFolio_Manish_Kumar/static/js/main.a56f1140.js.map",
+    "787.daf47beb.chunk.js.map": "/PortFolio_Manish_Kumar/static/js/787.daf47beb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a56f1140.js"
+  ]
+}
